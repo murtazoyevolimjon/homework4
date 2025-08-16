@@ -1,0 +1,6 @@
+let yosh = 20;
+if (yosh < 18) {
+   console.log("Siz voyaga yetmagansiz");
+} else {
+    console.log("Siz voyaga yetgansiz");
+}

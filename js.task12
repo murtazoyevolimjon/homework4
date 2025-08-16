@@ -1,0 +1,8 @@
+let age= 20;         
+let tur = "yengil";    
+
+if (age >= 18 && tur === "yengil") {
+  console.log("Siz yengil avtomobil boshqarishingiz mumkin.");
+} else {
+  console.log("Sizga bu turdagi avtomobilni boshqarishga ruxsat berilmagan.");
+}

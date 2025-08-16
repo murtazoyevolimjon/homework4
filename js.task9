@@ -1,0 +1,9 @@
+let namlik = 25;
+
+if (namlik < 30) {
+  console.log("Havo juda quruq.");
+} else if (namlik >= 30 && namlik < 60) {
+  console.log("Havo qulay.");
+} else {
+  console.log("Havo nam.");
+}

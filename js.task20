@@ -1,0 +1,15 @@
+let raqam1 = 7;   
+let raqam2  = 15;  
+let raqam3 = 10;  
+
+let engKatta;
+
+if (raqam1 >= raqam2 && raqam1 >= raqam3) {
+  engKatta =raqam1;
+} else if (raqam2 >=raqam1 && raqam2 >= raqam3) {
+  engKatta =raqam2;
+} else {
+  engKatta = raqam3;
+}
+
+console.log("Eng katta son: " + engKatta);

@@ -1,0 +1,10 @@
+let summa = 600000;   
+let chegirma = 0;
+let tolov = summa;
+
+if (summa > 500000) {
+  chegirma = summa * 0.10;     
+  tolov = summa - chegirma;
+}
+
+console.log("Chegirma: " + chegirma + " so'm, To'lov: " + tolov + " so'm");

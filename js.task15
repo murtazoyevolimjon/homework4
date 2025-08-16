@@ -1,0 +1,5 @@
+let matn = "Hello";   
+
+let uzunlik = matn.length;
+
+console.log("Natija: " + uzunlik + " ta belgi");

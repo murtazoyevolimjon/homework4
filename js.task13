@@ -1,0 +1,6 @@
+let soat = 40;      
+let stavka = 15;    
+
+let maosh = soat * stavka;
+
+console.log("Umumiy maosh: " + maosh + " so'm");

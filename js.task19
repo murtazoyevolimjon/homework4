@@ -1,0 +1,7 @@
+let qiymat = "123";   
+
+if (!isNaN(qiymat)) {
+  console.log("Kiritilgan qiymat son");
+} else {
+  console.log("Kiritilgan qiymat matn");
+}

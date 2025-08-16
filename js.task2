@@ -1,0 +1,3 @@
+let ism = "Ali";
+let familya = "Valiyev";
+console.log(`${ism} ${familya}`);

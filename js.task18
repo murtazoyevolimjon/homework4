@@ -1,0 +1,7 @@
+let somma = 100000;  
+let stovka = 10;  
+let yil = 2;          
+
+let foiz = (somma * stovka * yil) / 100;
+
+console.log("Natija: " + foiz + " so'm");

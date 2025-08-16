@@ -1,0 +1,7 @@
+let tomon = 4; 
+
+let perimetr = 4 * tomon;
+let yuza = tomon * tomon;
+
+console.log("Perimetri: " + perimetr + " sm");
+console.log("Yuzi: " + yuza + " sm");

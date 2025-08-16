@@ -1,0 +1,6 @@
+let dollar = 10;   
+let kurs = 10650; 
+
+let som = dollar * kurs;
+
+console.log(dollar + " dollar = " + som + " so'm");

@@ -1,0 +1,9 @@
+let tezlik = 120;
+
+if (tezlik < 50) {
+  console.log("Internet sekin.");
+} else if (tezlik >= 50 && tezlik < 100) {
+  console.log("Internet o'rtacha.");
+} else {
+  console.log("Internet juda tez.");
+}

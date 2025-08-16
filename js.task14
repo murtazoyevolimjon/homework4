@@ -1,0 +1,10 @@
+let son1 = 10;   
+let son2 = 20;   
+
+if (son1 > son2) {
+  console.log(son1 + " katta " + son2 + " dan.");
+} else if (son2 > son1) {
+  console.log(son2 + " katta " + son1 + " dan.");
+} else {
+  console.log("Ikkala son teng.");
+}
